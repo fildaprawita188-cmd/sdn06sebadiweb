@@ -223,7 +223,7 @@ footer .sosials a{
         height: 110px;
     }
     .nav-brand{
-        font-size: 45px;
+        font-size: 26px;
         margin-bottom: 10px;
     }
     .nav-menu{
@@ -233,6 +233,16 @@ footer .sosials a{
         margin-left: 0;
         margin-right: 30px;
     }
+
+      ol{
+    text-align: left !important;
+    padding-left: 30px !important;
+    list-style-position: outside !important;
+  }
+  ol li{
+    text-align: left !important;
+    padding-left: 5px !important;
+  }
     .nav-menu li a{
         font-size: 15px;
     }
